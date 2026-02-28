@@ -25,3 +25,8 @@ I am a passionate Full Stack Developer focused on building scalable, secure, and
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" /> </p>
 📊 GitHub Stats
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta9792&show_icons=true&theme=radical&hide_border=true" height="170" /> <img src="https://streak-stats.demolab.com/?user=vishalgupta9792&theme=radical&hide_border=true" height="170" /> </div>
+
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vishalgupta9792&label=Profile%20Views&color=blueviolet&style=flat" /> </p>
+🤝 Connect With Me
+<p align="center"> <a href="https://github.com/vishalgupta9792"><img src="https://skillicons.dev/icons?i=github" /></a> <!-- LinkedIn link add karna ho to yaha dalna --> </p>
