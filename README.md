@@ -67,7 +67,7 @@ I am a passionate Full Stack Developer focused on building scalable, secure, and
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta9792&show_icons=true&theme=radical&hide_border=true" height="170" />
 
-<img src="https://streak-stats.demolab.com/?user=vishalgupta9792&theme=radical&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=vishalgupta9792&theme=radical&hide_border=true&cache_seconds=1800" height="170" />
 
 </div>
 
