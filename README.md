@@ -61,13 +61,20 @@ I am a passionate Full Stack Developer focused on building scalable, secure, and
 
 ---
 
-## 📊 GitHub Stats    
+
+## 📊 GitHub Analytics  
 
 <p align="center">
-  
-![Vishal's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vishalgupta9792&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalgupta9792&layout=compact&theme=radical&hide_border=true)
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vishalgupta9792&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vishalgupta9792&layout=compact&theme=radical&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=vishalgupta9792&theme=radical&hide_border=true" />
 
 </p>
 
