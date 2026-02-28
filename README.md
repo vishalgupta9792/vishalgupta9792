@@ -1,10 +1,27 @@
-- 👋 Hi, I’m vishal gupta
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">Hi 👋, I'm Vishal Gupta</div>
+<div align="center">
+💻 Full Stack Developer | MERN Stack | Scalable Web Applications
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Clean+Code+Advocate;Always+Learning+New+Tech" /> </div>
+🚀 About Me
 
-<!---
-vishalgupta9792/vishalgupta9792 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate Full Stack Developer focused on building scalable, secure, and performance-driven web applications.
+
+🔭 Currently working on MERN Stack Projects
+
+🌱 Learning Advanced Backend & System Design
+
+💡 Love solving real-world problems
+
+⚡ Focused on clean architecture & scalable code
+
+🛠️ Tech Stack
+👨‍💻 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" /> </p>
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express" /> </p>
+🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
+☁️ DevOps & Tools
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,vscode" /> </p>
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vishalgupta9792&show_icons=true&theme=radical&hide_border=true" height="170" /> <img src="https://streak-stats.demolab.com/?user=vishalgupta9792&theme=radical&hide_border=true" height="170" /> </div>
